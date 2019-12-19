@@ -1,1 +1,1 @@
-# This Repository is used to store answers to leetcode questions
+# This repository is used to store answers to leetcode questions
